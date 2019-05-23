@@ -6,4 +6,4 @@ RUN pip install pystrich
 
 CMD [ "python", "./MachineInfo.py" ]
 
-EXPOSE localhost:80
+EXPOSE 172.27.233.17:80
